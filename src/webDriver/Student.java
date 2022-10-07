@@ -39,6 +39,7 @@ public class Student {
 		Assert.assertTrue(driver.findElement(By.xpath("//form[@data-testid='royal_login_form']")).isDisplayed());
 	}
 
+
 	@AfterClass
 	public void afterClass() {
 		driver.quit();
