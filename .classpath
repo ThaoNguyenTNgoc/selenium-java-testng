@@ -9,5 +9,6 @@
 	<classpathentry kind="lib" path="libarie/selenium-server-4.3.0.jar"/>
 	<classpathentry kind="lib" path="libarie/org.testng.eclipse_6.14.3.201902250526.jar"/>
 	<classpathentry kind="lib" path="libarie/testng-6.4.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
